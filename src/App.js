@@ -23,7 +23,7 @@ function App() {
       <Contact description ="Some positive Feedback"
       email='enter your email'/>
 
-      <Footer />
+      <Footer copyright ='© 2001-2021, GomyCode & Lac1, All Rights Reserved'/>
     </div>
   );
 }
