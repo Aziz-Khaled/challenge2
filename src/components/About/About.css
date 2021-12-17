@@ -1,0 +1,29 @@
+.Photo {
+    border-radius: 250px;
+    width: 210px;
+    margin-top: 50px ;
+    margin-right: -40px;
+}
+
+.About-css {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+.font {
+    font-size: larger;
+    margin-top: 100px;
+}
+
+
+.color {
+    color: darkgoldenrod;
+}

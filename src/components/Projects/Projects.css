@@ -1,0 +1,47 @@
+
+.pro{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.Project-1{
+    margin: 50px;
+    border-width: 2px;
+    align-items: center;
+    border: 1px solid #152290;
+    border-radius: 3px;
+}
+
+.p1{
+    width: 200px;
+}
+
+.text{
+    text-align: center;
+}
+
+.Project-2{
+    margin: 50px;
+    border-width: 2px;
+    align-items: center;
+    border: 1px solid #152290 ;
+    border-radius: 3px;
+}
+
+
+.Project-3{
+    margin: 50px;
+    border-width: 2px;
+    align-items: center;
+    border : 1px solid #152290 ;
+    border-radius: 3px;
+}
+
+.Project-4{
+    margin: 50px;
+    border-width: 2px;
+    align-items: center;
+    border: 1px solid #152290 ;
+    border-radius: 3px;
+}
